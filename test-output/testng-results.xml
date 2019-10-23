@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4736" started-at="2019-10-23T10:36:16Z" finished-at="2019-10-23T10:36:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4736" started-at="2019-10-23T10:36:16Z" finished-at="2019-10-23T10:36:21Z">
+      <class name="scripts.Practice01">
+        <test-method status="PASS" signature="writedate()[pri:0, instance:scripts.Practice01@57baeedf]" name="writedate" duration-ms="4647" started-at="2019-10-23T10:36:16Z" finished-at="2019-10-23T10:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writedate -->
+      </class> <!-- scripts.Practice01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
